@@ -10,6 +10,7 @@ class CreateProductsTable extends Migration
     {
         Schema::create('products', function (Blueprint $table) {
             $table->id();
+            $table->string('sku')->unique(); // Ensure this column exists
             $table->string('sku')->unique();
             $table->string('title');
             $table->text('description');
