@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1195274,
+      "sku": "8447013004694",
+      "title": "Pantallona",
+      "description": "Pantallona, në pëlhurë velvet streç. Prerje straight-fit me xhepa mbrapa. Mbyllja me zinxhir dhe butona. Ngjyra: E zezë. Përbërja: 81% Pambuk 17% Modal 2% Elastan",
+      "size": "38",
+      "stock_status": "instock",
+      "price": {
+        "min": 5592,
+        "max": 5592,
+        "regular_price": 6990,
+        "sale_price": 5592
+      },
+      "stock_qty": 2,
+      "image": {
+        "src": "https://storage.googleapis.com/fga-public/2024/10/d81369e6-872835601.jpg",
+        "alt": "Pantallona - 38"
+      }
+    },
+    {
+      "id": 1195280,
+      "sku": "8447013029512",
+      "title": "Pantallona",
+      "description": "Pantallona, në pëlhurë velvet streç. Prerje straight-fit me xhepa mbrapa. Mbyllja me zinxhir dhe butona. Ngjyra: E zezë. Përbërja: 81% Pambuk 17% Modal 2% Elastan",
+      "size": "40",
+      "stock_status": "instock",
+      "price": {
+        "min": 5592,
+        "max": 5592,
+        "regular_price": 6990,
+        "sale_price": 5592
+      },
+      "stock_qty": 2,
+      "image": {
+        "src": "https://storage.googleapis.com/fga-public/2024/10/d81369e6-872835601.jpg",
+        "alt": "Pantallona - 40"
+      }
+    },
+    {
+      "id": 1195282,
+      "sku": "8447013029529",
+      "title": "Pantallona",
+      "description": "Pantallona, në pëlhurë velvet streç. Prerje straight-fit me xhepa mbrapa. Mbyllja me zinxhir dhe butona. Ngjyra: E zezë. Përbërja: 81% Pambuk 17% Modal 2% Elastan",
+      "size": "42",
+      "stock_status": "instock",
+      "price": {
+        "min": 5592,
+        "max": 5592,
+        "regular_price": 6990,
+        "sale_price": 5592
+      },
+      "stock_qty": 2,
+      "image": {
+        "src": "https://storage.googleapis.com/fga-public/2024/10/d81369e6-872835601.jpg",
+        "alt": "Pantallona - 42"
+      }
+    },
+    {
+      "id": 1195285,
+      "sku": "8447013029536",
+      "title": "Pantallona",
+      "description": "Pantallona, në pëlhurë velvet streç. Prerje straight-fit me xhepa mbrapa. Mbyllja me zinxhir dhe butona. Ngjyra: E zezë. Përbërja: 81% Pambuk 17% Modal 2% Elastan",
+      "size": "44",
+      "stock_status": "instock",
+      "price": {
+        "min": 5592,
+        "max": 5592,
+        "regular_price": 6990,
+        "sale_price": 5592
+      },
+      "stock_qty": 1,
+      "image": {
+        "src": "https://storage.googleapis.com/fga-public/2024/10/d81369e6-872835601.jpg",
+        "alt": "Pantallona - 44"
+      }
+    },
+    {
+      "id": 1195287,
+      "sku": "8447013029543",
+      "title": "Pantallona",
+      "description": "Pantallona, në pëlhurë velvet streç. Prerje straight-fit me xhepa mbrapa. Mbyllja me zinxhir dhe butona. Ngjyra: E zezë. Përbërja: 81% Pambuk 17% Modal 2% Elastan",
+      "size": "46",
+      "stock_status": "instock",
+      "price": {
+        "min": 5592,
+        "max": 5592,
+        "regular_price": 6990,
+        "sale_price": 5592
+      },
+      "stock_qty": 2,
+      "image": {
+        "src": "https://storage.googleapis.com/fga-public/2024/10/d81369e6-872835601.jpg",
+        "alt": "Pantallona - 46"
+      }
+    },
+    {
+      "id": 1195288,
+      "sku": "8447013481129",
+      "title": "Pantallona",
+      "description": "Pantallona, në pëlhurë velvet streç. Prerje straight-fit me xhepa mbrapa. Mbyllja me zinxhir dhe butona. Ngjyra: E zezë. Përbërja: 81% Pambuk 17% Modal 2% Elastan",
+      "size": "48",
+      "stock_status": "instock",
+      "price": {
+        "min": 5592,
+        "max": 5592,
+        "regular_price": 6990,
+        "sale_price": 5592
+      },
+      "stock_qty": 1,
+      "image": {
+        "src": "https://storage.googleapis.com/fga-public/2024/10/d81369e6-872835601.jpg",
+        "alt": "Pantallona - 48"
+      }
+    }
+  ]
+  
